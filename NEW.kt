@@ -1,3 +1,6 @@
+//This Is Main Function
 fun main(){
-    print("Hello World")
+    val fristName =("omar")
+    println(fristName)
+    println(fristName.isEmpty())
 }
